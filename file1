@@ -1,4 +1,8 @@
 hi 
 file1
 from localrepo
+<<<<<<< HEAD
 dummyline11
+=======
+dummyline
+>>>>>>> parent of 351d0a9 (dummyline1)
